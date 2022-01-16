@@ -1,0 +1,91 @@
+.inline{
+  display:inline;
+  height: 55px;
+
+
+}
+
+
+#topSection{
+  background:url(images/pexels-pixabay-37337.jpg) center no-repeat;
+  background-size: 100%;
+  color:blanchedalmond;
+  border-radius:4px;
+  
+ 
+}
+
+
+#signUp{
+  color:white;
+  margin-top: 10px;
+  
+}
+
+
+#catCoinTitle{
+ padding-top: 10px;
+ padding-left: 10px;
+ margin-bottom:20px;
+ 
+}
+
+#logo{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin-top:20px;
+
+}
+
+.catCoinImages{
+  padding: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin: 0px;
+  margin-left: 0px;
+  
+}
+
+
+#signUprow{
+  background-color:royalblue;
+  color: white;
+  padding-bottom: 10px;
+  padding-top:10px;
+  margin-left: 0px;
+  margin-top: 10px;
+}
+
+#formRow{
+  display: inline-flex;
+  justify-content: center;
+
+}
+
+#sendRow{
+  margin-left: 5px;
+}
+
+#topRow{
+  background-color:silver;
+  color:rgb(91, 28, 163);
+  padding-top:10px;
+  padding-bottom:10px;
+  align-items: center;
+}
+
+#middleRow{
+  padding-top:10px;
+  padding-bottom:10px;
+  align-items: center;
+
+}
+
+#bottomRow{
+  background-color:silver;
+  color:rgb(91, 28, 163);
+  padding-top:10px;
+  padding-bottom:10px;
+  align-items: center;
+}
